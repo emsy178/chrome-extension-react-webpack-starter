@@ -17,3 +17,4 @@ Now build the extension using
 ```
 npm run watch
 ```
+You will see un `folder` generated inside `dist`
